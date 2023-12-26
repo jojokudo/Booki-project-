@@ -4,7 +4,7 @@ Nous avions pour objectif d'intégrer la maquette d'un site de planification de 
 
 ![image](https://github.com/jojokudo/Site-Booki/blob/main/Capture%20d%E2%80%99e%CC%81cran%202023-12-25%20a%CC%80%2023.53.35.png)
 
-## Déroulé du projet 
+## Déroulement du projet 
 
 - Intégration du header avec les liens "hébergements et activités" et le logo Booki
 - intégration de la barre de recherche avec le logo localisation
